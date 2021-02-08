@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/blk/programming/linvis/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+LOG	source/utils.hpp	/^#define LOG(/;"	d
+LOG_FLOAT	source/utils.hpp	/^#define LOG_FLOAT(/;"	d
+LOG_HERE	source/utils.hpp	/^#define LOG_HERE /;"	d
+LOG_HEX	source/utils.hpp	/^#define LOG_HEX(/;"	d
+LOG_INT	source/utils.hpp	/^#define LOG_INT(/;"	d
+LOG_NL	source/utils.hpp	/^#define LOG_NL /;"	d
+LOG_POINTER	source/utils.hpp	/^#define LOG_POINTER(/;"	d
+LOG_STRING	source/utils.hpp	/^#define LOG_STRING(/;"	d
+LOG_UINT	source/utils.hpp	/^#define LOG_UINT(/;"	d
+UNUSED	source/utils.hpp	/^#define UNUSED(/;"	d
+UTILS_H	source/utils.hpp	/^#define UTILS_H$/;"	d
+draw_colored_rectangle	source/main.c	/^void draw_colored_rectangle(u32* pixels, i32 window_width, i32 window_height, i32 x_center, i32 /;"	f	typeref:typename:void
+draw_to_pixels	source/main.c	/^void draw_to_pixels(u32 *pixels, u32 window_width, u32 window_height,$/;"	f	typeref:typename:void
+handle_keyboard	source/main.c	/^u8 handle_keyboard(SDL_Event *event)$/;"	f	typeref:typename:u8
+i16	source/utils.hpp	/^typedef int16_t i16; $/;"	t	typeref:typename:int16_t
+i32	source/utils.hpp	/^typedef int32_t i32; $/;"	t	typeref:typename:int32_t
+i64	source/utils.hpp	/^typedef int64_t i64; $/;"	t	typeref:typename:int64_t
+i8	source/utils.hpp	/^typedef int8_t i8; $/;"	t	typeref:typename:int8_t
+linvis	README.md	/^# linvis$/;"	c
+main	source/main.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+real32	source/utils.hpp	/^typedef float real32;$/;"	t	typeref:typename:float
+real64	source/utils.hpp	/^typedef double real64;$/;"	t	typeref:typename:double
+u16	source/utils.hpp	/^typedef uint16_t u16; $/;"	t	typeref:typename:uint16_t
+u32	source/utils.hpp	/^typedef uint32_t u32; $/;"	t	typeref:typename:uint32_t
+u64	source/utils.hpp	/^typedef uint64_t u64; $/;"	t	typeref:typename:uint64_t
+u8	source/utils.hpp	/^typedef uint8_t u8; $/;"	t	typeref:typename:uint8_t
